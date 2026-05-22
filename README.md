@@ -1,6 +1,8 @@
 # 3blue1brown-stringloops
 A naive monte carlo approach to solve 3blue1brown's third "puzzle of the month" about the average number of loops from strings in a box.
 
+https://www.youtube.com/shorts/ZHXt0-_gSj4
+
 The puzzle reads as follows:
 Imagine you have a lot of pieces of string, and you drop them into a box. You reach in and
 blindly grab two random 'ends', and you tie those two ends together. Then, you do it again. 
