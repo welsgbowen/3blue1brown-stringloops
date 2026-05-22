@@ -1,2 +1,2 @@
-# 3blue1brown-stringchoose
+# 3blue1brown-stringloops
 A naive monte carlo approach to solve 3blue1brown's third "puzzle of the month" about the average number of loops from strings in a box.
