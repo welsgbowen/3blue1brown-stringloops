@@ -14,3 +14,11 @@ tying two ends together, how many loops on average do you end up with?
 
 This solution will find the average number of loops for a given number of strings over
 a series of simulations.
+
+Compile program using gcc
+
+    gcc stringLoops.c -o loops
+    
+Run the executable with the required arguments
+
+    ./loops <number of strings> <number of simulations>
