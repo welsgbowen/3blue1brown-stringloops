@@ -13,7 +13,7 @@ Here's the question: If we start with 50 total strings, and we go through that p
 tying two ends together, how many loops on average do you end up with?
 
 This solution will find the average number of loops for a given number of strings over
-a series of simulations.
+a series of simulations. It will also show the simulation that resulted in the highest number of loops.
 
 Compile program using gcc
 
